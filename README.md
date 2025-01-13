@@ -80,7 +80,7 @@ pip install tensorflow numpy matplotlib pillow seaborn
 3. Clone the repository
 4. Run the main script:
 ```bash
-python Mihai_Alexandru_Stefanoiu.py
+python main.py
 ```
 
 ## 📋 Requirements
