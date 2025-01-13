@@ -10,7 +10,6 @@
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-UA-blue.svg)
 
-<img src="/api/placeholder/800/400" alt="Project Banner - Neural Networks Visualization"/>
 
 *Neural Network Implementation for Image Classification*
 
