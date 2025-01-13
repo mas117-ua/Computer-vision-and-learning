@@ -119,7 +119,7 @@ Mihai Alexandru Stefanoiu
 <div align="center">
 <img src="/api/placeholder/800/300" alt="Neural Network Architecture Visualization"/>
 
-*Sample Neural Network Architecture*
+
 </div>
 
 ---
